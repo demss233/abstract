@@ -3,7 +3,7 @@ An electron application that uses [html2canvas](https://github.com/niklasvh/html
 
  - Abstract background images are fetched from [Api-Ninjas's Random Image API](https://api-ninjas.com/api/randomimage)
  - Just go to [Api-Ninjas](https://api-ninjas.com/) and create your account, get your API KEY and test this electron application
- - Paste the api key in the handleClick function inside main.jsx file in /abstract/pages/ 
+ - Paste the api key in the handleClick function inside <mark>main.jsx</mark> file in <mark>/abstract/pages/</mark>
  - don't forget to use 'npm install' and 'npm run dev' 🦧
 
 # Screenshots
