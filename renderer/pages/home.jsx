@@ -6,8 +6,8 @@ import "../../globals.css";
 import axios from "axios";
 import { useEffect, useState, useRef } from "react";
 import { IoMdSettings } from "react-icons/io";
-import * as htmlToImage from "html-to-image";
-import { toPng, toJpeg, toBlob, toPixelData, toSvg } from "html-to-image";
+// import * as htmlToImage from "html-to-image";
+// import { toPng, toJpeg, toBlob, toPixelData, toSvg } from "html-to-image";
 
 const options = {
   allowTaint: true,
